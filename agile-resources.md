@@ -1,3 +1,5 @@
+# Agile Resources
+
 It should be "agile" not "fragile".
 Some agile perspectives believe that to be truly "agile" every member of the team must know every component etc. Not only is this ridiculous but it tries to make every member of the team a jack of all trades. This may work in some scenarios and over time the team may be able to reach an equilibrium. It is very from being the most strategic and tactful approach.
 
