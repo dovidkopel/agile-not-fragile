@@ -23,4 +23,4 @@ encryption.
 data. The golden rule is data must never be transferred at all publicly unencrypted.
     2. Encryption does not always have to be using a TLS connection. Data may be encrypted at one end and sent over the wire
 without any additional encryption and be acceptable.
-    3. Consult with the CTO and or CISO on best practices and specifics. There are many possible way to k
+    3. Consult with the CTO and or CISO on best practices and specifics.
