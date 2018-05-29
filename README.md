@@ -1,5 +1,7 @@
 # Agile Not Fragile
 
+*Don't use agile as an excuse to do things incorrectly and rapidly and claim you will fix them later.*
+
 1. [Agile Resources](agile-resources.md)
 2. [Massaging requirements](massaging-requirements.md)
 3. [Architecture for tasks](architecture-for-tasks.md)
