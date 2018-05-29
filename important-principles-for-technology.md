@@ -1,4 +1,7 @@
 # Important principles for technology
+
+Most of this is generic and basically equivalent to saying follow best practices. Hopefully this section will be refined more clearly to possess the high-level approach to a healthy technology mindset.
+
 1. Code design, cleanliness, isolation, and ability to move and change is more important than the implementation of the code itself.
     1. The algorithmic approach to how the problem is solved is clearly needed to make the software "work".
     2. Following good code quality and design ensures that business changes don't destabilize the system.
