@@ -27,19 +27,19 @@ For each of the three `TCK` individual items, a team member should provide these
 
 Now for each category there are these details
 
-## Technology
+### Technology
 * Usage - How much unique usage is each technology utilized
 * Changes- How often are changes made to how the technology is used
 * Impact - How great of an impact does this technology affect the system
 * Uniqueness - How much is the product specific functionality used that a comparable alternative may not have
 
-## Knowledge
+### Knowledge
 * Breadth
 * Complexity
 * Dependencies
 * Cross Dependencies
 
-## Code
+### Code
 * Lines of code
 * Comments
 * Complexity
@@ -48,7 +48,7 @@ Now for each category there are these details
 * Cross Dependencies
 * Criticality
 
-# Deep Dive
+## Deep Dive
 Let's create a sample project:
 
 1. A financial system that has a back-end component, the company dashboard, a trader app for Android and iOs.
