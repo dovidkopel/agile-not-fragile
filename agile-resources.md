@@ -1,16 +1,52 @@
 # Agile Resources
 
-It should be "agile" not "fragile".
-Some agile perspectives believe that to be truly "agile" every member of the team must know every component etc. Not only is this ridiculous but it tries to make every member of the team a jack of all trades. This may work in some scenarios and over time the team may be able to reach an equilibrium. It is very from being the most strategic and tactful approach.
+It should be "agile" not "fragile". Some agile perspectives believe that to be truly "agile" every member of the team must know every component etc. Not only is this ridiculous but it tries to make every member of the team a jack of all trades. This may work in some scenarios and over time the team may be able to reach an equilibrium and a healthy state. You don't achieve healthiness but just hiring more people or throwing money on it.
 
-Within a given project there are three realms:
-* Technologies - The different technologies used in a project
-* Project Components (source code) - A project may be composed of several modules or components. Even a single module could be very large and a single engineer may not be proficient in all of it.
-* Domain Knowledge - Knowledge of the workings of the industry, the business, the actors
+* **T**echnologies - The different technologies used in a project
+* **C**ode - A project may be composed of several modules or components. Even a single module could be very large and a single engineer may not be proficient in all of it
+* Domain **K**nowledge -  Knowledge of the workings of the industry, the business, the actors
 
-We can say that T+C+K = A (All)
+`T + C + K = A/N` (Asset coverage over number of team members)
 
 The TCK (Tack) has a formula that can easily identify a healthy or unhealthy team. There are a few different metrics that we may glean from this information.
+
+Track the size, complexity, impact of each aspect the system.
+Let's start off with counting one point for each aspect of each section.
+We have two sides of that equation, the right side represents the human asset coverage.
+To what extent is each aspect of the system covered by a team member (employee).
+
+This formula doesn't account for the importance and/or weight of each category and each individual component.
+The other side of the formula that requires additional detail is the degree to which each team member's fluency in each individual componenet.
+
+Let's break down each category into how we may interface with greater details.
+
+For each of the three `TCK` individual items, a team member should provide these three data points:
+* Duration - Years of experience
+* Comfortablity - How comfortable you are (1 least, 10 most)
+* Fluency - How fluent you are (1 none, 10 guru)
+
+Now for each category there are these details
+
+## Technology
+* Usage - How much unique usage is each technology utilized
+* Changes- How often are changes made to how the technology is used
+* Impact - How great of an impact does this technology affect the system
+* Uniqueness - How much is the product specific functionality used that a comparable alternative may not have
+
+## Knowledge
+* Breadth
+* Complexity
+* Dependencies
+* Cross Dependencies
+
+## Code
+* Lines of code
+* Comments
+* Complexity
+* Test Coverage
+* Dependencies
+* Cross Dependencies
+* Criticality
 
 Let's create a sample project:
 
