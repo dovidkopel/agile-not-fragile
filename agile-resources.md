@@ -48,6 +48,7 @@ Now for each category there are these details
 * Cross Dependencies
 * Criticality
 
+# Deep Dive
 Let's create a sample project:
 
 1. A financial system that has a back-end component, the company dashboard, a trader app for Android and iOs.
